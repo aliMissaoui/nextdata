@@ -10,6 +10,8 @@ A Flutter/Android application that leverages Firebase for backend services and i
 - [Configuration](#configuration)
 - [Running the Project](#running-the-project)
 - [Project Structure](#project-structure)
+- [Project Demo - Video](#project-demo)
+
 
 ## Features
 
@@ -121,4 +123,11 @@ lib/
 │ │ ├── pages/
 │ │ └── widgets/
 └── main.dart
+
+## Project Demo
+Due to GitHub 10MB limit video size, the following video is a low quality demo, for a higher and better quality demo check this link: https://drive.google.com/drive/folders/19P7h3fcG7ESnLZUseuOjw5K47STfFNdX?usp=sharing
+
+https://github.com/user-attachments/assets/03b1be71-594c-4e11-9d9c-a4edabc23fb7
+
+
 
