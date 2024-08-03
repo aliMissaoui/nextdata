@@ -1,0 +1,15 @@
+#Native splash for the app
+flutter_native_splash:
+  image: assets/images/icons/nextdata_logo_splash.png
+  color: "#1154B7"
+  android: true
+  ios: true
+
+  android_12:
+    image: assets/images/icons/nextdata_logo_splash.png
+    color: "#1154B7"
+    android: true
+    ios: true
+
+  android_gravity: center
+  ios_content_mode: center
